@@ -12,10 +12,25 @@ int main()
      * Consejo: El docente solo va a probar textos en minisculas y que solo tengan letras y espacios
      */
     cout << "Challenge #3" << endl;
-    string texto="";
+    string texto = "";
     cout << "Ingrese un texto cualquiera:" << endl;
     getline(cin, texto);
     cout << texto;
-    // Comience a programar desde aquí
+
+    for (int i = 0; i < texto.length(); i++;)
+    {
+        if (texto[i] == texto)
+        {
+            cout<<"La palabra que mas se repite: "<<texto[i]
+
+       }
+    }
+    
+
+    //ingeeee no puedoo JAJAJA Tenga piedad:( llevo 35 minutos aqui:/ Ayudita:(
+
+
+
+
     return 0;
 }
