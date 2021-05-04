@@ -6,7 +6,8 @@ La verdad mientras ibamos aprendiendo lo que se me dificultó más fue el 'git i
 ## Sistemas
 La manera en que todo en el mundo son sistemas, era algo de lo que no me habia percatado :zap:, todos trabajando por un mismo objetivo, siempre con sinergia porque sino no es un sistema.
 
-Quiero mencionar a @sebaspaf10 porque con su ayuda pude entender un poco mas sobre github mientras estaba perdido en algun tema
+Quiero mencionar a 
+[@sebaspaf10](https://github.com/sebaspaf10) porque con su ayuda pude entender un poco mas sobre github mientras estaba perdido en algun tema
 
 # Lista de algunas clases 
 
